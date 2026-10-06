@@ -111,11 +111,11 @@ python run.py
 ## 8. Swagger testing
 Open the Swagger UI at:
 
-- http://127.0.0.1:8000/docs
+- http://127.0.0.1:8001/docs
 
 The ReDoc interface is available at:
 
-- http://127.0.0.1:8000/redoc
+- http://127.0.0.1:8001/redoc
 
 ## 9. CDS discovery
 The CDS service discovery endpoint is:
